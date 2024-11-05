@@ -1,0 +1,6 @@
+Flask
+deepface
+Pillow
+numpy
+pymongo dnspython
+flask-cors
